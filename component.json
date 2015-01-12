@@ -1,0 +1,6 @@
+{
+    "repos": "https://github.com/requirejs/text.git",
+    "version": "2.0.12",
+    "name": "text",
+    "main": "text.js"
+}
